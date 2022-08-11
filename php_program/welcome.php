@@ -58,7 +58,7 @@ require_once "config.php";
         .topnav a.split {
             float: right;
             background-color: #04AA6D;
-            color: black;
+            color: white;
         }
     </style>
     
