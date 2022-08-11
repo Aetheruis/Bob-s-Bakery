@@ -2,7 +2,7 @@
 // Initialize the session
 session_start();
  
-require_once "config.php";
+require_once "config.php"; // Hello there
 ?>
 <!DOCTYPE html>
 <html lang="en">
